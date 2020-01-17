@@ -6,7 +6,7 @@ In this repository I do some exploratory analysis of the Yelp dataset and take t
 ## Ambition 
 I am working to predict business categories with the ambition that I'll eventually build a Recommendation System to recommend business categories. This product would be used by business owners to label their business with appropriate categories that they are currently missing so that they can be discovered by more users on Yelp! This part is a work in process. 
 
-## Exploratory
+## Exploratory Analysis
 To date the project has a few completed analyses. Notebook 1 has an initial brainstorm, some data cleaning, and an analysis to determine words indicative of great (5-star) and terrible (1-star) reviews on Yelp (utilizing bag of words). I also do this using TFIDF instead of bag of words (Notebook 2). I extend this in Notebook 3 to topics indicative of reviews; I use NMF and LDA for the topic modeling. 
 
 ## User Segmentation
